@@ -1,0 +1,25 @@
+{
+  "name": "brawbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "asynckeystate": "0.0.5",
+    "autoit": "^1.1.11",
+    "electron": "^9.0.5",
+    "express": "^4.17.1",
+    "memoryjs": "^3.2.3",
+    "node-key-sender": "^1.0.11",
+    "robotjs": "^0.6.0",
+    "socket.io": "^2.3.0"
+  },
+  "devDependencies": {
+    "electron-build-env": "^0.2.0",
+    "neon-cli": "^0.4.0"
+  }
+}
