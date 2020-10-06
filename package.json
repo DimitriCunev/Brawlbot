@@ -11,7 +11,7 @@
   "dependencies": {
     "asynckeystate": "0.0.5",
     "autoit": "^1.1.11",
-    "electron": "^9.0.5",
+    "electron": "^9.3.0",
     "express": "^4.17.1",
     "memoryjs": "^3.2.3",
     "node-key-sender": "^1.0.11",
